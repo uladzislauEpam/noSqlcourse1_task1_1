@@ -2,6 +2,9 @@ There is hardly any exception handling present - invalid input crashes the app.
 
 Demo:
 
+Db example contents:
+![](res/db.png)
+
 Create tasks, subtasks:
 ![](res/createTask.png)
 
